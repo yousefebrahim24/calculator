@@ -1,5 +1,5 @@
 num1 = float(input("inter your first number :"))
-num2 = float(input("inter your second number :"))
+num2 = float(input("inter your first number :"))
 sign = input("please inter the sign :")
 
 if sign == "+" :
